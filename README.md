@@ -1,6 +1,6 @@
 Solution Process: Finding Unknown Parameters
 
-This document outlines the steps taken to find the unknown variables $\theta$, $M$, and $X$ from the given parametric equations and data.
+The steps taken to find the unknown variables $\theta$, $M$, and $X$ from the given parametric equations and data.
 
 Final Answer:
 \left(t*\cos(0.4538)-e^{0.0120\left|t\right|}\cdot\sin(0.3t)\sin(0.4538)\ +54.5000,42+\ t*\sin(0.4538)+e^{0.0120\left|t\right|}\cdot\sin(0.3t)\cos(0.4538)\right)
@@ -113,5 +113,6 @@ $\theta$ (radians): 0.4538 (This is $\approx 26.0^{\circ}$, well within the $0^{
 $M$: 0.0120 (Well within the $-0.05$ to $0.05$ range)
 
 $X$: 54.5000 (Well within the $0-100$ range)
+
 
 These values are then formatted into the required LaTeX string for submission.
